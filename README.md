@@ -1,5 +1,4 @@
 # QCRCE
-Quantum-Critical Reverse Causality Engine
 ╔══════════════════════════════════════════════╗
 ║            QCRCE AGI SYSTEM                   ║
 ║     Quantum-Critical Reverse Causality       ║
